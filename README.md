@@ -21,6 +21,7 @@ Testing Strategy:
 - Integration Test: Ensures the system works as a whole, combining deposits, withdrawals, and statement generation.
 
 How to Run:
+
 1- Clone the repository.
 
 2- Run the tests using your preferred IDE or build tool (e.g., Maven/Gradle).
